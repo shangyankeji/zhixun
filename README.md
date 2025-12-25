@@ -4,7 +4,11 @@
 
 <div align="center">
 
-**🎉 Qoder 创意挑战 · 第一期 🎉**
+<a href="https://qoder.ai">
+  <img src="frontend/public/qoder-logo.png" alt="Qoder Logo" width="200" />
+</a>
+
+**Qoder 创意挑战 · 第一期**
 
 > 本项目由 **Qoder 社区** 小伙伴 @Jane 提供创意想法，由我使用 **[Qoder](https://qoder.ai)** 进行技术落地开发。
 > 
@@ -44,9 +48,9 @@
 - [项目架构](#项目架构)
 - [API 文档](#api-文档)
 - [部署指南](#部署指南)
-  - [Docker 一键部署](#方式一docker-一键部署-推荐)
-  - [手动部署](#方式二非-docker-手动部署)
-  - [CDN 部署](#方式三cdn-部署-edgeonecloudflare)
+- [Docker 一键部署](#方式一docker-一键部署-推荐)
+- [手动部署](#方式二非-docker-手动部署)
+- [CDN 部署](#方式三cdn-部署-edgeonecloudflare)
 - [常见问题](#常见问题)
 - [贡献指南](#贡献指南)
 - [开源协议](#开源协议)
